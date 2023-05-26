@@ -1,8 +1,8 @@
 # Password Generator
-## .preview
-![Screenshot (1514)]()
+## Preview
+![Screenshot (18)](https://github.com/sahaa99/my_project/assets/134568822/fe89c860-95d1-4687-8ef5-11e071474140)
 
-## .features
+## Features
 - Password Length
 
 - Include uppercase letters
@@ -13,11 +13,11 @@
 
 - Include symbols
 
-## .tools
+## Tools
 - Css
-- React.JS
+- Java script
 - HTML
 
-## .contact
-- Email: kalagotlasuraj@gmail.com
-- Mobile: 9121422178 
+## Contact
+- Email: kumbhamyashwanth99@gmail.com
+- Mobile: 9440045179 
