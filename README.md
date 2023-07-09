@@ -1,6 +1,8 @@
 # Password Generator
 ## Preview
-![Screenshot (18)](https://github.com/sahaa99/my_project/assets/134568822/fe89c860-95d1-4687-8ef5-11e071474140)
+![Screenshot (18)](https://github.com/sahaa99/my_project/assets/134568822/d8d18a80-376c-4827-958f-173bbb8f54a5)
+
+
 
 ## Features
 - Password Length
